@@ -12,10 +12,7 @@ or just get it from the main releases tab lol
 
 # how to use
 
-open the .exe (or .py) file and select 1, 2, 3, 4
-
-1 lets you change the fps limit
-
+ill change this later
 
 
 
